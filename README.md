@@ -1,8 +1,8 @@
 
-###                     Gerenciamento e provisionamento da infraestrutura por meio de código. 
+#                    Gerenciamento e provisionamento da infraestrutura por meio de código. 
 
 
-# As definições da estrutura de usúarios tem como base a figura abaixo e seguem as seguintes premissas: 
+### As definições da estrutura de usúarios tem como base a figura abaixo e seguem as seguintes premissas: 
 
 
 ![](esboco.png)
