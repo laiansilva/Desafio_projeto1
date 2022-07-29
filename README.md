@@ -6,8 +6,8 @@
 
 
 ![](esboco.png)
->- Todos os usuárioas terão permissão total dentro do diretório **publico**;
->- Os usuarários pertencentes a cada grupo terão permissão total dentro de seus respectivos diretórios;
+>- Todos os usuários terão permissão total dentro do diretório **publico**;
+>- Os usuários pertencentes a cada grupo terão permissão total dentro de seus respectivos diretórios;
 >- Os usuários não terão permissão de leitura, escrita e execução em diretórios de departamentos que eles pertencem;
 
 
